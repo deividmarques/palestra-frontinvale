@@ -7,7 +7,7 @@ Nessa apresentação foi usada Reveal.js
 
 # reveal.js
 
-A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
+Um framework  para criar facilmente belas apresentações usando HTML. [Veja um exemplo](http://lab.hakim.se/reveal-js/).
 
 
 ## License
