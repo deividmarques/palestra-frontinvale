@@ -1,7 +1,8 @@
 
 ## Descrição
 Palestra realizada no dia 26 de setembro de 2015 para o evento FrontinVale. 
-*Título:* Como o time de Front-end da Locaweb trabalha.
+
+**Título:** Como o time de Front-end da Locaweb trabalha.
 
 Nessa apresentação foi usada Reveal.js
 
